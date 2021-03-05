@@ -62,7 +62,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		J2JaXWIc5kWk/fiAeRHqHLnEl2Q=
+		iT2QsWbW5TbDmgJLsMf5QsvaAc8=
 		</data>
 		<key>Modules/NotaWebViewExt.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/NotaWebViewExt.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		USRqCNU3Rq9s0lc8VQtXkHpwq4k=
+		gMUlJ749KvzAY5pSKh6cbteont8=
 		</data>
 		<key>Modules/NotaWebViewExt.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/NotaWebViewExt.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		USRqCNU3Rq9s0lc8VQtXkHpwq4k=
+		gMUlJ749KvzAY5pSKh6cbteont8=
 		</data>
 		<key>Modules/NotaWebViewExt.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/NotaWebViewExt.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UBMGZfVeZpjGz/SWgGU/fT/z/Uo=
+		TyD2M8vkeqEnof44+elYj8nbTnU=
 		</data>
 		<key>Modules/NotaWebViewExt.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/NotaWebViewExt.swiftmodule/i386.swiftmodule</key>
 		<data>
-		UBMGZfVeZpjGz/SWgGU/fT/z/Uo=
+		TyD2M8vkeqEnof44+elYj8nbTnU=
 		</data>
 		<key>Modules/NotaWebViewExt.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Modules/NotaWebViewExt.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YjEhISdCMrawqGJ0NC/YpWdj1x4=
+		0PJ2MqHi0HBFJdGWqw2uT4luhmc=
 		</data>
 		<key>Modules/NotaWebViewExt.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Modules/NotaWebViewExt.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		YjEhISdCMrawqGJ0NC/YpWdj1x4=
+		0PJ2MqHi0HBFJdGWqw2uT4luhmc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -323,11 +323,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			USRqCNU3Rq9s0lc8VQtXkHpwq4k=
+			gMUlJ749KvzAY5pSKh6cbteont8=
 			</data>
 			<key>hash2</key>
 			<data>
-			1xZSLIbDNlH/YXGY7+k20GJjPPpA/VDXV7yT2I1iVvw=
+			v03rLcjo/eNu3oBF6T/x0gyWZUTzsSAf7gJSA7B2zOw=
 			</data>
 		</dict>
 		<key>Modules/NotaWebViewExt.swiftmodule/arm64.swiftdoc</key>
@@ -356,11 +356,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			USRqCNU3Rq9s0lc8VQtXkHpwq4k=
+			gMUlJ749KvzAY5pSKh6cbteont8=
 			</data>
 			<key>hash2</key>
 			<data>
-			1xZSLIbDNlH/YXGY7+k20GJjPPpA/VDXV7yT2I1iVvw=
+			v03rLcjo/eNu3oBF6T/x0gyWZUTzsSAf7gJSA7B2zOw=
 			</data>
 		</dict>
 		<key>Modules/NotaWebViewExt.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -389,11 +389,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UBMGZfVeZpjGz/SWgGU/fT/z/Uo=
+			TyD2M8vkeqEnof44+elYj8nbTnU=
 			</data>
 			<key>hash2</key>
 			<data>
-			y0IQwHZO8drTr4SW+ZTTY/BKLeI+kbqWwhMhP8I1H4I=
+			Lr2IgQh4jNGVBiTBkzpGG4Vmm94p8XB8tNMjNdPv/00=
 			</data>
 		</dict>
 		<key>Modules/NotaWebViewExt.swiftmodule/i386.swiftdoc</key>
@@ -422,11 +422,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UBMGZfVeZpjGz/SWgGU/fT/z/Uo=
+			TyD2M8vkeqEnof44+elYj8nbTnU=
 			</data>
 			<key>hash2</key>
 			<data>
-			y0IQwHZO8drTr4SW+ZTTY/BKLeI+kbqWwhMhP8I1H4I=
+			Lr2IgQh4jNGVBiTBkzpGG4Vmm94p8XB8tNMjNdPv/00=
 			</data>
 		</dict>
 		<key>Modules/NotaWebViewExt.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -455,11 +455,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YjEhISdCMrawqGJ0NC/YpWdj1x4=
+			0PJ2MqHi0HBFJdGWqw2uT4luhmc=
 			</data>
 			<key>hash2</key>
 			<data>
-			7m2TnytDBTwdQi8Yww86FAOL3hWWzQZ017N4cg38dj0=
+			f6LWlFxb/ndoIOCTOW/jXQj35D11oQ7butuXBCdWe9s=
 			</data>
 		</dict>
 		<key>Modules/NotaWebViewExt.swiftmodule/x86_64.swiftdoc</key>
@@ -488,11 +488,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YjEhISdCMrawqGJ0NC/YpWdj1x4=
+			0PJ2MqHi0HBFJdGWqw2uT4luhmc=
 			</data>
 			<key>hash2</key>
 			<data>
-			7m2TnytDBTwdQi8Yww86FAOL3hWWzQZ017N4cg38dj0=
+			f6LWlFxb/ndoIOCTOW/jXQj35D11oQ7butuXBCdWe9s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
